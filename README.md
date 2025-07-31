@@ -1,8 +1,8 @@
-# 🍕 Taste of Travel: Margherita Pizza
+# Taste of Travel: Margherita Pizza
 
 This project is a simple HTML page that introduces users to the iconic Italian dish, **Margherita Pizza**. It’s part of a "Taste of Travel" series, highlighting world cuisines using only HTML.
 
-## 🌍 Project Overview
+## Project Overview
 
 The page includes:
 - A brief cultural intro to the dish
@@ -12,9 +12,7 @@ The page includes:
 - A visual image of the dish
 - A clean recipe table
 
-![Margherita Pizza](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg/640px-Eq_it-na_pizza-margherita_sep2005_sml.jpg)
-
-## 🧾 Technologies Used
+## Technologies Used
 - HTML5 (Semantic tags like `<h1>`, `<ul>`, `<table>`, `<img>`, etc.)
 - No JavaScript or CSS — perfect for HTML beginners
 
